@@ -383,23 +383,6 @@ The notebook will then connect to the database and perform the exploratory analy
 
 ---
 
-## 📊 Future Improvements
-
-Potential extensions to this project include:
-
-* Build an interactive **Power BI dashboard**
-* Add vendor profitability rankings
-* Analyze product-level pricing opportunities
-* Incorporate freight costs into adjusted profit calculations
-* Perform monthly/weekly sales trend analysis
-* Identify slow-moving and fast-moving products
-* Develop vendor segmentation
-* Add automated data-quality checks
-* Optimize SQL queries and database indexes
-* Build an automated reporting pipeline
-
----
-
 ## 👨‍💻 Project Purpose
 
 This project demonstrates practical skills in:
